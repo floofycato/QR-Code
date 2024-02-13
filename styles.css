@@ -25,30 +25,31 @@
 }
 
 .container {
-  max-width: 375px;
+  max-width: 300px;
   background-color: white;
   border-radius: 30px;
   box-shadow: 10px 20px 30px rgba(0, 0, 0, 0.1);
 }
 
 .container img {
-  width: 350px;
-  margin: 10px 10px;
+  width: 274px;
+  margin: 14px 14px 14px 14px;
   border-radius: 23px;
 }
 
 h1 {
   color: hsl(218, 44%, 22%);
-  padding: 8px 25px 15px;
-  font-size: 27px;
+  padding: 0px 25px 15px;
+  font-size: 22px;
 }
 
 p {
   font-size: 15px;
-  padding: 0px 25px 50px;
+  padding: 0px 25px 40px;
   color: hsl(220, 15%, 55%);
 }
 
 .attribution {
   padding-bottom: 25px;
+  color: hsl(220, 15%, 55%);
 }
